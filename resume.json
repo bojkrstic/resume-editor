@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Bojan Krstic",
+    "label": "Programmer",
+    "picture": "http://www.veldimex.co.rs/images/BojanKrstic/BojanKrstic.jpg",
+    "email": "bojkrstic@gmail.com",
+    "phone": "063 10-48-103",
+    "website": "",
+    "summary": "I am from Pirot. I am finished Faculty of Electronic Engineering, University of Nis Major-Computer Science and Informatics. I work for Tigar A.D. from Pirot as a senior software developer.",
+    "location": {
+      "address": "Milivoja Manica 21",
+      "postalCode": "18300",
+      "city": "Pirot",
+      "countryCode": "SR",
+      "region": "Nis"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Tigar AD",
+      "position": "Senior Software developer",
+      "website": "",
+      "startDate": "2002-10-01",
+      "endDate": "2015-07-15",
+      "summary": "",
+      "highlights": [
+        "Involved in all aspects of the software life cycle from analysis, design, develop and testing of software prior to installation",
+        "Create new and redesign existing table into the system, according to the specification, create entity-relationship model.",
+        "Design, code and write specifications according to customer(users) requirement ",
+        "Changes and improvements to existing applications based on user requrements",
+        "Writing technical and function specification documents Application Developer and Architect, Database Administrator and Designer, in a wide variety of business applications",
+        "Excellent knowledge of relational database systems and their design.",
+        "Manage several database located on IBM server, create schema and  scripts for data manipulation, minimize operating cost and improve  functionality"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Faculty of Electronic Engineering",
+      "area": "Computer Science and Informatics",
+      "studyType": "University of Nis",
+      "startDate": "1994-01-01",
+      "endDate": "2001-10-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "ITAcademy , Belgrade ",
+      "area": "Microsoft Web Development",
+      "studyType": "",
+      "startDate": "2014-10-01",
+      "endDate": "2015-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "Javascript",
+        "Css",
+        "Jquery",
+        "XML",
+        "CMS Joomla"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySQL ",
+        "Sql Server 2012",
+        "IBM DB2",
+        "Progress",
+        "HyperFileSQL",
+        "MS Access"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "C#",
+        "Windev",
+        "Progress 4GL",
+        "C",
+        "VB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Soccer",
+      "keywords": [
+        "Futsal (playing small fudbal)"
+      ]
+    }
+  ],
+  "references": []
+}
